@@ -1,0 +1,8 @@
+{
+  "name": "Richard Akintunde Portfolio",
+  "description": "A high-end, professional portfolio for Richard Akintunde, featuring an AI-powered chatbot assistant, project showcases, and a sleek modern design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
